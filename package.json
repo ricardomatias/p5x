@@ -1,0 +1,26 @@
+{
+  "name": "p5x",
+  "version": "0.0.1",
+  "description": "A p5js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardomatias/p5x.git"
+  },
+  "keywords": [
+    "p5",
+    "creative",
+    "visuals",
+    "image",
+    "processing"
+  ],
+  "author": "Ricardo Matias <ricardo.matias0@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardomatias/p5x/issues"
+  },
+  "homepage": "https://github.com/ricardomatias/p5x#readme"
+}
